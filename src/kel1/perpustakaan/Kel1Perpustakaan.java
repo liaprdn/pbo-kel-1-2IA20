@@ -28,6 +28,8 @@ public class Kel1Perpustakaan {
         a = 4;
         b= 7;
         System.out.println(a+b);
+        System.out.println("test");
+        System.out.println("taa!!!");
     }
     
 }
