@@ -23,6 +23,7 @@ public class Kel1Perpustakaan {
         System.out.println("watafak in hereee");
         System.out.println("damsky is here");
         System.out.println("sahalomm");
+        System.out.println("mana bang kok gaada");
     }
     
 }
