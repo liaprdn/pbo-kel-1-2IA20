@@ -18,5 +18,6 @@ public class Kel1Perpustakaan {
         // TODO code application logic here
         System.out.println("Hello World");
         System.out.println("Bismillah rekam posting");
+        System.out.println("Commit kedua");
     }
 }
