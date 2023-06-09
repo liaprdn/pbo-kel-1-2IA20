@@ -24,6 +24,10 @@ public class Kel1Perpustakaan {
         System.out.println("damsky is here");
         System.out.println("sahalomm");
         System.out.println("mana bang kok gaada");
+        int a, b;
+        a = 4;
+        b= 7;
+        System.out.println(a+b);
     }
     
 }
