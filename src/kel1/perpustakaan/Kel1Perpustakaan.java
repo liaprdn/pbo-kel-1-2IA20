@@ -29,6 +29,7 @@ public class Kel1Perpustakaan {
         b= 7;
         System.out.println(a+b);
         System.out.println("test");
+        System.out.println("taa!!!");
     }
     
 }
