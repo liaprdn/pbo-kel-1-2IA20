@@ -48,8 +48,6 @@ public class SignupPage extends javax.swing.JFrame {
         txt_email = new javax.swing.JTextField();
         jLabel32 = new javax.swing.JLabel();
         jLabel9 = new javax.swing.JLabel();
-        rSMaterialButtonCircle1 = new rojerusan.RSMaterialButtonCircle();
-        rSMaterialButtonCircle2 = new rojerusan.RSMaterialButtonCircle();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setBackground(new java.awt.Color(255, 255, 255));
@@ -186,19 +184,6 @@ public class SignupPage extends javax.swing.JFrame {
         jLabel9.setText("Username");
         jPanel2.add(jLabel9, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 570, 50, 50));
 
-        rSMaterialButtonCircle1.setBackground(new java.awt.Color(51, 51, 255));
-        rSMaterialButtonCircle1.setText("Login");
-        rSMaterialButtonCircle1.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                rSMaterialButtonCircle1ActionPerformed(evt);
-            }
-        });
-        jPanel2.add(rSMaterialButtonCircle1, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 730, 300, 70));
-
-        rSMaterialButtonCircle2.setBackground(new java.awt.Color(255, 51, 51));
-        rSMaterialButtonCircle2.setText("Signup");
-        jPanel2.add(rSMaterialButtonCircle2, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 650, 300, 70));
-
         getContentPane().add(jPanel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(990, 0, 540, 830));
 
         setSize(new java.awt.Dimension(1539, 867));
@@ -279,8 +264,6 @@ public class SignupPage extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel9;
     private javax.swing.JPanel jPanel1;
     private javax.swing.JPanel jPanel2;
-    private rojerusan.RSMaterialButtonCircle rSMaterialButtonCircle1;
-    private rojerusan.RSMaterialButtonCircle rSMaterialButtonCircle2;
     private javax.swing.JTextField txt_contact;
     private javax.swing.JTextField txt_email;
     private javax.swing.JTextField txt_password;
