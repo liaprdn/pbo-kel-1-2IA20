@@ -16,6 +16,7 @@ public class SignupPage extends javax.swing.JFrame {
      */
     public SignupPage() {
         initComponents();
+        System.out.print("hello");
     }
 
     /**
